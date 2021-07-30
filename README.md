@@ -53,5 +53,6 @@ Hi👋, I'm **Mike**, a **Software Engineering student** 🚀 from Vietnam.
     <img align="left" alt="Michael Le | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
-<div align='center'>⭐️ From [Nerdy Mike](https://github.com/nerdy-mike)<div/>
+##
+⭐️ From [Nerdy Mike](https://github.com/nerdy-mike)
 
