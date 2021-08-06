@@ -8,7 +8,7 @@
 
 Hi👋, I'm **Mike**, a **Software Engineering student** 🚀 from Vietnam.
 
-  <img align="right" alt="GIF" height="250px" src="https://cdn-anjng.nitrocdn.com/hidcNApTmTdSeDLyDVqXvfIflysVgyWl/assets/static/optimized/rev-c4a72bb/wp-content/uploads/2015/10/defending-work-not-at-the-client-meeting.gif" />
+  <img align="right" alt="GIF" height="250px" src="https://i.imgur.com/1Yfuwrn.gif" />
 
 **About me:**
 
