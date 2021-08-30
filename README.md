@@ -6,7 +6,7 @@
   <code><a href="https://www.hackerrank.com/nerdy-mike" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
 </h5> -->
 
-Hi👋, I'm **Mike**, a **Software Engineering student** 🚀 from Vietnam.
+Hi👋, I'm **Mike**, a **Computer Science student** 🚀 from Vietnam.
 
   <img align="right" alt="GIF" height="250px" src="https://i.imgur.com/1Yfuwrn.gif" />
 
